@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: baba
+  m_Name: BackgroundProcedural
   m_Shader: {fileID: -6465566751694194690, guid: ff894080b946b0b43a42014c7981899d, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -77,19 +77,26 @@ Material:
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
+    - _FresnelPower: 5
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
     - _Metallic: 0
     - _Mode: 0
+    - _NoiseScale: 200
     - _OcclusionStrength: 1
     - _Parallax: 0.02
+    - _ScrollSpeed: 0.005
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
+    - _ColoGlow1: {r: 0, g: 1, b: 0.2647059, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color1: {r: 0.8301887, g: 0.8301887, b: 0.8301887, a: 0}
+    - _Color2Glow: {r: 0.5471698, g: 0.2756497, b: 0.34122616, a: 0}
+    - _ColorGlow2: {r: 1, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []
