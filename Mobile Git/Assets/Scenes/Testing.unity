@@ -306,6 +306,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   targetPosition: {x: 0, y: 6, z: 0}
+  targetRotation: {x: 0, y: 0, z: 90}
 --- !u!212 &978553700
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -471,6 +472,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   targetPosition: {x: -10, y: 6, z: 0}
+  targetRotation: {x: 0, y: 0, z: 360}
 --- !u!1 &1602980547
 GameObject:
   m_ObjectHideFlags: 0
@@ -746,6 +748,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   targetPosition: {x: 10, y: 6, z: 0}
+  targetRotation: {x: 0, y: 0, z: 180}
 --- !u!1 &2048844997
 GameObject:
   m_ObjectHideFlags: 0
